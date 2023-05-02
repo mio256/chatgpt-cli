@@ -1,0 +1,4 @@
+github.com/ayush6624/go-chatgpt v0.2.0 h1:G3aug+xK5tJcxCSQd7AnRIWGrfrWacl39A9fmsnjZOk=
+github.com/ayush6624/go-chatgpt v0.2.0/go.mod h1:aFDfQLN+MW3D3aKvuVU72EigsiUYQN49wsVlAORiWDA=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
