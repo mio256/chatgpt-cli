@@ -13,6 +13,9 @@ Simple CLI made with Go for ChatGPT.
 ## Usage
 
 ```sh
+# set `OPENAI_API_KEY = ******`
+$ vim .env
+
 $ go build -o a.out
 $ ./a.out
 ```
