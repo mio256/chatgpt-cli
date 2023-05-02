@@ -1,4 +1,4 @@
-module github.com/mio256/go-chatgpt
+module github.com/mio256/chatgpt-cli
 
 go 1.20
 
